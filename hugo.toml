@@ -1,3 +1,4 @@
+baseURL = "https://enigmaticmachine.github.io"
 languageCode = 'en-us'
 title = 'EnigmaticMachine Blog'
 theme = "risotto"
